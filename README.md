@@ -1,2 +1,2 @@
-# css-grid-system
+# CSS-grid-system
 CSS Grid System
